@@ -1,0 +1,19 @@
+F:\scuola\sistemi\paschetta\esercizi\es XML\es XML\bin\Debug\es XML.exe.config
+F:\scuola\sistemi\paschetta\esercizi\es XML\es XML\bin\Debug\es XML.exe
+F:\scuola\sistemi\paschetta\esercizi\es XML\es XML\bin\Debug\es XML.pdb
+F:\scuola\sistemi\paschetta\esercizi\es XML\es XML\obj\Debug\es XML.csproj.AssemblyReference.cache
+F:\scuola\sistemi\paschetta\esercizi\es XML\es XML\obj\Debug\es_XML.Form1.resources
+F:\scuola\sistemi\paschetta\esercizi\es XML\es XML\obj\Debug\es_XML.Properties.Resources.resources
+F:\scuola\sistemi\paschetta\esercizi\es XML\es XML\obj\Debug\es XML.csproj.GenerateResource.cache
+F:\scuola\sistemi\paschetta\esercizi\es XML\es XML\obj\Debug\es XML.csproj.CoreCompileInputs.cache
+F:\scuola\sistemi\paschetta\esercizi\es XML\es XML\obj\Debug\es XML.exe
+F:\scuola\sistemi\paschetta\esercizi\es XML\es XML\obj\Debug\es XML.pdb
+C:\Users\filip\OneDrive\Desktop\es XML\es XML\bin\Debug\es XML.exe.config
+C:\Users\filip\OneDrive\Desktop\es XML\es XML\bin\Debug\es XML.exe
+C:\Users\filip\OneDrive\Desktop\es XML\es XML\bin\Debug\es XML.pdb
+C:\Users\filip\OneDrive\Desktop\es XML\es XML\obj\Debug\es XML.csprojAssemblyReference.cache
+C:\Users\filip\OneDrive\Desktop\es XML\es XML\obj\Debug\es_XML.Form1.resources
+C:\Users\filip\OneDrive\Desktop\es XML\es XML\obj\Debug\es_XML.Properties.Resources.resources
+C:\Users\filip\OneDrive\Desktop\es XML\es XML\obj\Debug\es XML.csproj.GenerateResource.cache
+C:\Users\filip\OneDrive\Desktop\es XML\es XML\obj\Debug\es XML.exe
+C:\Users\filip\OneDrive\Desktop\es XML\es XML\obj\Debug\es XML.pdb

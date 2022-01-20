@@ -1,0 +1,62 @@
+﻿<?xml version='1.0' encoding='UTF-8' ?>
+<p:FatturaElettronica xmlns:ds="http://222.23.org/2000/09/xmldsig#" xmlns:p="http://ivaservizi.agenziaentrate.gov.it/docs/xsd/fatture/v1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" verisone="FPR12" xsi:schemaLocation="http://ivaservizi.agenziaentrate.gov.it/docs/xsd/fatture/v1.2 http://www.fatturapa.gov.it/export/fatturazione/sdi/fatturapa/v1.2/Schema_del_file_xml_FatturaPA_versione_1.2.xsd">
+  <FatturaElettronicaHeader>
+    <DatiTrasmissione>
+      <IdTrasmittente>
+        <IdPaese>AD</IdPaese>
+        <IdCodice>a09</IdCodice>
+      </IdTrasmittente>
+      <ProgressoInvio>1</ProgressoInvio>
+      <FormatoTrasmissione>FPA12</FormatoTrasmissione>
+      <CodiceDestinatario>12</CodiceDestinatario>
+      <CedentePrestatore>
+        <DatiAnagrafici>
+          <IdFiscaleIVA>
+            <IdPaese>AD</IdPaese>
+            <IdCodice>as</IdCodice>
+            <Anagrafica />
+            <RegimeFiscale>RF18</RegimeFiscale>
+          </IdFiscaleIVA>
+        </DatiAnagrafici>
+        <Sede>
+          <Indirizzo>viacuneo80</Indirizzo>
+          <CAP>12045</CAP>
+          <Comune>fossano</Comune>
+          <Nazione>IT</Nazione>
+        </Sede>
+      </CedentePrestatore>
+      <CessionarioCommittente>
+        <Sede>
+          <Indirizzo>viacuneo90</Indirizzo>
+          <CAP>12045</CAP>
+          <Comune>cuneo</Comune>
+          <Nazione>IT</Nazione>
+        </Sede>
+      </CessionarioCommittente>
+    </DatiTrasmissione>
+  </FatturaElettronicaHeader>
+  <FatturaElettronicaBody>
+    <DatiGenerali>
+      <DatiGeneraliDocumento>
+        <TipoDocumento />
+        <Divisa />
+        <Data />
+        <Numero />
+      </DatiGeneraliDocumento>
+      <DatiBeniServizi>
+        <DettaglioLinee>
+          <NumeroLinea />
+          <Descrizione />
+          <PrezzoUnitario />
+          <PrezzoTotale />
+          <AliquotaIVA />
+        </DettaglioLinee>
+        <DatiRiepilogo>
+          <AliquotaIVA />
+          <ImponibileImporto />
+          <Imposta />
+        </DatiRiepilogo>
+      </DatiBeniServizi>
+    </DatiGenerali>
+  </FatturaElettronicaBody>
+</p:FatturaElettronica>
