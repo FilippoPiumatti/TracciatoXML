@@ -1,0 +1,10 @@
+C:\Users\f.piumatti.1365\source\repos\ProgettoGaraNuotoThread\ProgettoGaraNuotoThread\bin\Debug\ProgettoGaraNuotoThread.exe.config
+C:\Users\f.piumatti.1365\source\repos\ProgettoGaraNuotoThread\ProgettoGaraNuotoThread\bin\Debug\ProgettoGaraNuotoThread.exe
+C:\Users\f.piumatti.1365\source\repos\ProgettoGaraNuotoThread\ProgettoGaraNuotoThread\bin\Debug\ProgettoGaraNuotoThread.pdb
+C:\Users\f.piumatti.1365\source\repos\ProgettoGaraNuotoThread\ProgettoGaraNuotoThread\obj\Debug\ProgettoGaraNuotoThread.csprojAssemblyReference.cache
+C:\Users\f.piumatti.1365\source\repos\ProgettoGaraNuotoThread\ProgettoGaraNuotoThread\obj\Debug\ProgettoGaraNuotoThread.Form1.resources
+C:\Users\f.piumatti.1365\source\repos\ProgettoGaraNuotoThread\ProgettoGaraNuotoThread\obj\Debug\ProgettoGaraNuotoThread.Properties.Resources.resources
+C:\Users\f.piumatti.1365\source\repos\ProgettoGaraNuotoThread\ProgettoGaraNuotoThread\obj\Debug\ProgettoGaraNuotoThread.csproj.GenerateResource.cache
+C:\Users\f.piumatti.1365\source\repos\ProgettoGaraNuotoThread\ProgettoGaraNuotoThread\obj\Debug\ProgettoGaraNuotoThread.csproj.CoreCompileInputs.cache
+C:\Users\f.piumatti.1365\source\repos\ProgettoGaraNuotoThread\ProgettoGaraNuotoThread\obj\Debug\ProgettoGaraNuotoThread.exe
+C:\Users\f.piumatti.1365\source\repos\ProgettoGaraNuotoThread\ProgettoGaraNuotoThread\obj\Debug\ProgettoGaraNuotoThread.pdb
